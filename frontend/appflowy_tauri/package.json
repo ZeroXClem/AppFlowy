@@ -50,7 +50,7 @@
     "redux": "^4.2.1",
     "rxjs": "^7.8.0",
     "slate": "^0.94.1",
-    "slate-react": "^0.94.2",
+    "slate-react": "^0.107.1",
     "ts-results": "^3.3.0",
     "utf8": "^3.0.0",
     "y-indexeddb": "^9.0.9",
